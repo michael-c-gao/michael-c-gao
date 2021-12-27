@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+Welcome to my GitHub! I am currently a 4th year Computer Science student at the University of Oregon with an expected graduation date of 06/2022. I have experience in front-end (HTML, CSS, PHP), back-end (Python, C, C#, C++), and databases (MySQL). I am currently looking for entry-level SWE positions upon graduation.
+<!-- 
 **michael-c-gao/michael-c-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
